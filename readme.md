@@ -50,7 +50,6 @@ DOGIMG-API project/
 
 ## 🧪 API Used
 **Dog CEO API**  
-```bash
 https://dog.ceo/api/breeds/image/random
 
 
