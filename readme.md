@@ -30,16 +30,6 @@ Built with **HTML, CSS, JavaScript**, and **Axios** using `async/await`.
 
 ---
 
-## 📁 Project Structure
-DOGIMG-API project/
-│── index.html
-│── style.css
-│── script.js
-│── README.md
-
-
----
-
 ## ⚙️ How It Works
 1. User clicks **"Get New Dog"**
 2. Axios sends a request to the Dog CEO API
